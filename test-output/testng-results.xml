@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-04T14:54:01 SAST" name="Demo Web App test suite" finished-at="2024-05-04T14:54:45 SAST" duration-ms="43537">
+    <groups>
+    </groups>
+    <test started-at="2024-05-04T14:54:01 SAST" name="Test" finished-at="2024-05-04T14:54:45 SAST" duration-ms="43537">
+      <class name="Tests.TestCase">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:Tests.TestCase@20ce78ec]" started-at="2024-05-04T14:54:01 SAST" name="LaunchApplication" finished-at="2024-05-04T14:54:43 SAST" duration-ms="42042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:Tests.TestCase@20ce78ec]" started-at="2024-05-04T14:54:01 SAST" name="LaunchApplication" finished-at="2024-05-04T14:54:35 SAST" duration-ms="33936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:Tests.TestCase@20ce78ec]" started-at="2024-05-04T14:54:01 SAST" name="LaunchApplication" finished-at="2024-05-04T14:54:45 SAST" duration-ms="43427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="TestCase3()[pri:0, instance:Tests.TestCase@20ce78ec]" started-at="2024-05-04T14:54:35 SAST" name="TestCase3" finished-at="2024-05-04T14:54:35 SAST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method signature="TestCase2()[pri:0, instance:Tests.TestCase@20ce78ec]" started-at="2024-05-04T14:54:43 SAST" name="TestCase2" finished-at="2024-05-04T14:54:43 SAST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method signature="TestCase1()[pri:0, instance:Tests.TestCase@20ce78ec]" started-at="2024-05-04T14:54:45 SAST" name="TestCase1" finished-at="2024-05-04T14:54:45 SAST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+      </class> <!-- Tests.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Demo Web App test suite -->
+</testng-results>
